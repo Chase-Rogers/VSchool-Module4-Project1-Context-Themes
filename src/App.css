@@ -1,0 +1,49 @@
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.Dark-theme {
+  background-color: #333333;
+  color: whitesmoke;
+}
+
+.Light-theme {
+  background-color: whitesmoke;
+  color: #333333;
+}
+
+header {
+  padding: 20px;
+  height: 5vh;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  margin: 10px;
+}
+
+h2 {
+  margin: 0;
+}
+footer {
+  height: 11vh;
+  text-align: center;
+}
+
+.main {
+  opacity: .9;
+  height: 70vh;
+  text-align: center;
+  padding-top: 10vh;
+}
